@@ -2,6 +2,8 @@
 
 This is a Flutter project of Basic REST API integration from Jsonplaceholder API.
 For visualization, a screenshot is given below.
+
+
 ![image](https://github.com/user-attachments/assets/7ea3a143-cb15-4335-a3de-3b2d94ae9f33)
 
 Here are a few resources to get you started if this is your first Flutter project:
