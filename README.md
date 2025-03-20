@@ -1,12 +1,10 @@
 # basic_restapi_integration
 
-A new Flutter project.
+This is a Flutter project of Basic REST API integration from Jsonplaceholder API.
+For visualization, a screenshot is given below.
+![image](https://github.com/user-attachments/assets/7ea3a143-cb15-4335-a3de-3b2d94ae9f33)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
+Here are a few resources to get you started if this is your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
